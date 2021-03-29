@@ -1,0 +1,17 @@
+Kamina's room
+5
+door_vertex<You are in front of the door. The wardrobe is on the east. The desk and the mirror are on the north. The bed and the commode are on the north east.>20
+wardrobe_vertex<You are in between the wardrobe, the bed and the commode. The mirror and the desk are on the north west. The door is on the south west.>00|19
+desk_mirror_vertex<You are in front of the desk and the mirror. The bed is just behind you. The door is on the south. The wardrobe and the commode are on the south east. The computer desk is on the east.>01|03
+inBetween_vertex<You are in the middle of the room. The bed is just next to you. The commode and the wardrobe are on the east. The door is on the south. The mirror and the desk are on the north. The computer desk is on the north east.>
+computerDesk_vertex<You are between the computer desk and the bed. The mirror is on the west. The door is on the south. The wardrobe and the commode are on the south east.>02
+start
+0	3	n
+3	2	n
+3	1	e
+3	0	s
+2	3	s
+2	4	e
+1	3	w
+4	2	w
+end

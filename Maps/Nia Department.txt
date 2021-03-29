@@ -1,0 +1,29 @@
+Nia Deparment
+9
+vertex0<you are now just behind the department broken door, you can start discovering the department. To your north the food table and to your west the bathroom and to your east a Akili room>
+vertex1<you are now in the bathroom to your east the bathroom door>
+vertex2<now you are in front of the food table to your east Nia's room and you can now see the light switch I you go west and then north>
+vertex3<to your north is the light switch>
+vertex4<infront of you is the light switch>22
+vertex5<you are now inside Nia room, have fun :D \n to the east Nia desk and there is some papers on it.>
+vertex6<now you are in the middle of the room infront of Nia Desk>23
+vertex7<you are now inside Akili room, it's kind of not organised room, to the east Nia desk and there is some papers on it.>
+vertex8<now you are in the middle of the room infront of Nia Desk>24
+start
+0	1	w
+1	0	e
+0	2	n
+2	0	s
+2	3	w
+3	2	e
+3	4	n
+4	3	s
+0	7	e
+7	8	e
+8	7	w
+7	0	w
+2	5	e
+5	6	e
+5	2	w
+6	5	w
+end

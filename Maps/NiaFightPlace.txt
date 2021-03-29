@@ -1,0 +1,113 @@
+NiaFightPlace
+30
+vertex_0_00<You are with Nia, in a strange place>
+vertex_0_01<You are with Nia, in a strange place>
+vertex_0_02<You are with Nia, in a strange place>
+vertex_0_03<You are with Nia, in a strange place>
+vertex_0_04<You are with Nia, in a strange place>
+vertex_0_05<You are with Nia, in a strange place>
+vertex_0_06<You are with Nia, in a strange place>
+vertex_1_00<You are with Nia, in a strange place>
+vertex_1_01<You are with Nia, in a strange place>
+vertex_1_02<You are with Nia, in a strange place>
+vertex_1_03<You are with Nia, in a strange place>
+vertex_1_04<You are with Nia, in a strange place>
+vertex_1_05<You are with Nia, in a strange place>
+vertex_1_06<You are with Nia, in a strange place>
+vertex_2_00<You are with Nia, in a strange place>
+vertex_2_01<You are with Nia, in a strange place>
+vertex_2_02<You are with Nia, in a strange place>
+vertex_3_00<You are with Nia, in a strange place>
+vertex_3_01<You are with Nia, in a strange place>
+vertex_3_02<You are with Nia, in a strange place>
+vertex_4_00<You are with Nia, in a strange place>
+vertex_4_01<You are with Nia, in a strange place>
+vertex_4_02<You are with Nia, in a strange place>
+vertex_5_00<You are with Nia, in a strange place>
+vertex_5_01<You are with Nia, in a strange place>
+vertex_5_02<You are with Nia, in a strange place>
+vertex_5_03<You are with Nia, in a strange place>
+vertex_5_04<You are with Nia, in a strange place>
+vertex_5_05<You are with Nia, in a strange place>
+vertex_5_06<You are with Nia, in a strange place>
+start
+0	1	e
+0	7	n
+1	0	w
+1	8	n
+1	2	e
+2	1	w
+2	9	n
+2	3	e
+3	2	w
+3	10	n
+3	4	e
+4	3	w
+4	11	n
+4	5	e
+5	4	w
+5	12	n
+5	6	e
+6	5	w
+6	13	n
+7	0	s
+7	8	e
+7	14	n
+8	7	w
+8	9	e
+8	1	s
+9	8	w
+9	10	e
+9	2	s
+10	9	w
+10	11	e
+10	3	s
+11	10	w
+11	4	s
+11	12	e
+12	11	w
+12	5	s
+12	13	e
+12	15	n
+13	12	w
+13	6	s
+14	7	s
+14	17	n
+15	12	s
+15	16	e
+15	18	n
+16	15	w
+16	13	s
+16	19	n
+17	20	n
+17	14	s
+18	15	s
+18	19	e
+18	21	n
+19	18	w
+19	16	s
+19	22	n
+20	17	s
+20	23	n
+21	18	s
+21	22	e
+21	28	n
+22	21	w
+22	19	s
+22	29	n
+23	20	s
+23	24	e
+24	23	w
+24	25	e
+25	24	w
+25	26	e
+26	25	w
+26	27	e
+27	26	w
+27	28	e
+28	27	w
+28	29	e
+28	21	s
+29	28	w
+29	22	s
+end

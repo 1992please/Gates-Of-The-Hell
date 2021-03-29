@@ -1,0 +1,34 @@
+Faculty
+10
+outOfFaculty<You are in front of the faculty gates. There's a long way on the east and seems there's nothing there. The same goes for the west and south.>
+passedTheGates<There's a building in front of you. But it doesn't seem the entrance is here. One end of the building is on the east and another end is on the west. There's a map in front of you showing the building design. The gates of the faculty is on the south.>
+buildingRightEdge<You are at the eastern edge of the building. An entrance is found on the north. The other end of the building is on the west. The faculty fence is, of course, surrounding the area.>
+eastEntrance<You are in front of the building entrance. One end of the building is on the south.>
+girlsWC<You are at an end of the passage way. A door leading outside of the building is on the east. Girls WC is on the north and there's a note indicating that the WC is not usable by human beings. You are in a long passage way, you can move on to the west.>
+boysWC<Boys WC is on the north and there's a note indicating that the room is not usable by human beings. Hall#3 is on the south but seems to be locked. You can move to the ease or west as you wish in the passage way.>
+interactiveRooms<Hall#4 is on the north. Here's where you can take your examinations. Hall#2 is on the south. Here's where you take your lectures and tutorials. You can move to the east and north as you wish in the passage way.>
+afterLeftEntrance<You are at an end of the passage way. There's a door leading outside the building on the west. Hall#1 is on the south. Hall#5 is on the north. Both of them seem to be locked.>
+leftEntrace<You are in front of the building entrance. There's a door in front of you. A building end is on the south.>
+leftEdge<You are at the western edge of the building. An entrance is found on the north. The other end of the building is on the east. The faculty fence is, of course, surrounding the area.>
+start
+0	1	n
+1	0	s
+1	2	e
+2	1	w
+1	9	w
+9	1	e
+2	3	n
+3	2	s
+3	4	w
+4	3	e
+4	5	w
+5	4	e
+5	6	w
+6	5	e
+6	7	w
+7	6	e
+7	8	w
+8	7	e
+8	9	s
+9	8	n
+end

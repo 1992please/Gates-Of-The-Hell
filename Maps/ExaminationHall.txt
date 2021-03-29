@@ -1,0 +1,53 @@
+ExaminationHall
+13
+vertex_zero<You are at the beginning of Examination Hall with respect to the bench number ordering of the desks. Your desk is the second one in the first row. You can find the mentors' desk on the east.>14|13|13
+vertex_one<You are by the first desk in the first row. Your desk is the second one. The mentors' desk is on the north east.>13|13|13|13
+vertex_two<You are by the second desk in the first row, where you should be sitting. The mentors' desk is on the north east.>13|13|13|13
+vertex_three<You are by the third (and the last as well) disk in the first row. The mentors' desk is on the north east.>13|13
+vertex_four<You are in the middle of the passage way of the examination room. You are just by the mentors' disk. Your disk is the second one in the first row. You are in front of the second row.>12|13|13
+vertex_five<You are by the first disk in the second row. Your disk is the second one in the first row. You can find the mentors' disk on the north.>13|13|13|13
+vertex_six<You are by the second disk in the second row. Your disk is the second one in the first row. You can find the mentors' disk on the north.>13|13|13|13
+vertex_seven<You are by the third (and the last as well) disk in the second row. Your disk is the second one in the first row.You can find the mentors' disk on the north.>13|13
+vertex_eight<You are at the end of the examination hall. You can find the door on the east. The mentors' disk is on the west. Your disk is the second one in the first row. You are just in front of the third and fourth rows.>13|13
+vertex_nine<You are between the first disk in the third and fourth rows. Your disk is the second one in the first row. You can find the mentors' disk on the north west. The door is on the north east.>13|13|13|13
+vertex_ten<You are between the second disk in the third and fourth rows. Your disk is the second one in the first row. You can find the mentors' disk on the north west. The door is on the north east.>13|13|13|13
+vertex_eleven<You are between the third (and the last as well) disks in the third and fourth rows. Your disk is the second one in the first row.You can find the mentors' disk on the north. You can find the door on the north east. The mentors' disk is on the north west.>13|13
+vertex_twelve<You are by the hall exit. The mentors' disk is on the west. Your disk is the second one in the first row.>13
+start
+0	1	s
+0	4	w
+1	0	n
+1	5	e
+1	2	s
+2	1	n
+2	6	e
+2	3	s
+3	2	n
+3	7	e
+4	0	w
+4	5	s
+4	8	e
+5	4	n
+5	1	w
+5	9	e
+5	6	s
+6	5	n
+6	2	w
+6	10	e
+6	7	s
+7	6	n
+7	3	w
+7	11	e
+8	4	w
+8	9	s
+8	12	e
+9	8	n
+9	5	w
+9	10	s
+10	9	n
+10	6	w
+10	11	s
+11	10	n
+11	7	w
+12	8	w
+end

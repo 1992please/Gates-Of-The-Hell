@@ -1,0 +1,12 @@
+hell castle
+4
+vertex0<right now you are hiding behind a wall to the west there is an opening to to fight the guards>
+vertex1<the guards didn't see you yet. you can go to north to have thier attention>
+vertex2<the guards saw you. they perpared thier weapons but they still in their positions. they are waiting for you to go to them to north>
+vertex3<combat mode>
+start
+0	1	w
+1	0	e
+1	2	n
+2	3	n
+end

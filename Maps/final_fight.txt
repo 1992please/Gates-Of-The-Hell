@@ -1,0 +1,7 @@
+final fight
+2
+vertex0<now you are facing the hell army you have to start moving to the south to fight the big boss>
+vertex1<now you are in front of the big boss>
+start
+0	1	s
+end

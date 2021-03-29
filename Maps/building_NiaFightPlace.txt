@@ -1,0 +1,33 @@
+building_NiaFightPlace
+11
+window_vertex<There's a window in front of you. The door is on the east. There are some boxes on the west. A melaya is laying on the ground on the north east.>
+door_vertex<You are in front of the door leading outside of the building. A window is on your west. There is a melaya on your north. Some boxes are filling room on the very west.>
+vertex_two<You just at the right down corner of the melaya. The door is on the south west.>
+vertex_three<You are at the right top corner of the melaya.>
+vertex_four<You are at the top of the melaya.>
+vertex_five<You are at the top left corner of the melaya.>00
+vertex_six<You are the left down corner of the melaya. The door is on the south east. The window is on the south west. There are some boxes filling the room on the west.>
+vertex_seven<You are in the middle of the way between the window and the door.>
+vertex_nine<You are at the right top corner of the melaya.>
+vertex_ten<You are at the top left corner of the melaya.>
+start
+0	7	e
+7	0	w
+7	6	n
+7	1	e
+1	8	e
+8	1	w
+8	2	n
+2	8	s
+2	3	n
+3	2	s
+3	9	n
+9	4	w
+9	3	s
+4	9	e
+4	10	w
+5	10	n
+5	6	s
+6	5	n
+6	7	s
+end
